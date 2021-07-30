@@ -2,10 +2,11 @@
 This is a regression analysis for Week 8 Core IP, Moringa School
 It's aim is to test my understanding of Decision Trees and SVM.
 #### 7/30/2021
-By **BEATY KIPLAGAT
+By **BEATY KIPLAGAT**
 ## Description
 
 Nairobi Hospital conducted a clinical camp to test for hypothyroidism. The data collected focused on Thyroid patients. I was required to use the dataset provided to build a model that determines whether or not the patient's symptoms indicate that the patient has hypothyroid.
+
 I used decision trees and SVM to build several models that predict whether or not the patient's symptoms indicate that they have hypothyroid, then using their accuracy levels and RMSE values then picked the AdaBoost as the most accurate model at predicting.
 
 ##Summary of Analysis
