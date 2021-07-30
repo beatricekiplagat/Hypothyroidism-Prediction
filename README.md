@@ -9,7 +9,7 @@ Nairobi Hospital conducted a clinical camp to test for hypothyroidism. The data 
 
 I used decision trees and SVM to build several models that predict whether or not the patient's symptoms indicate that they have hypothyroid, then using their accuracy levels and RMSE values then picked the AdaBoost as the most accurate model at predicting.
 
-##Summary of Analysis
+## Summary of Analysis
 We followed these steps during our project:
 1. Data Understanding
 2. Data Preparation
@@ -32,7 +32,7 @@ No Known Bugs
 * Jupyter Notebook
 
 ## Support and contact details
-you can reach me on beatykiplagat@gmail.com
+You can reach me on beatykiplagat@gmail.com
 ### License
 MIT
 Copyright (c) 2021 **Moringa School and SnowTec**
